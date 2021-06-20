@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+
+    <string name="facebook_app_id">197472208768380</string>
+    <string name="fb_login_protocol_scheme">fb197472208768380</string>
+</resources>
