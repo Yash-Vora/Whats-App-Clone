@@ -81,10 +81,10 @@ Whatsapp clone is a chatting app where you can chat with your friends or convey 
   - You can upload or change your profile picture,change your username and change your status.
   
 ## Installation
-- <b>For installing `android studio` click on this link.</b> 
-  - [Install Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMIibm3mZyk8QIVTteWCh3akwFDEAAYASABEgLNq_D_BwE&gclsrc=aw.ds#downloads "Android Studio")
-- <b>For more info related to `android studio` installation on different platform click on this link.</b>
-  - [Check For More Info](https://developer.android.com/studio/install "More Info")
+- For installing `android studio` click on this link.
+    - [Install Android Studio](https://developer.android.com/studio?gclid=EAIaIQobChMIibm3mZyk8QIVTteWCh3akwFDEAAYASABEgLNq_D_BwE&gclsrc=aw.ds#downloads "Android Studio")
+- For more info related to `android studio` installation on different platform click on this link.
+    - [Check For More Info](https://developer.android.com/studio/install "More Info")
 
 ## How to run the app
 - Android studio must be installed in your laptop or pc.
